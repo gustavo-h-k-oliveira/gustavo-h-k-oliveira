@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 
 - 👯 Open to collaborating on **Data Science** and **Machine Learning** projects using Python.  
 
-- 🤔 Interested in learning more about **Data Engineering** and **Back-End Development**. "I'm already exploring a lot about **Networking** and **Security**."  
+- 🤔 Interested in learning more about **Data Engineering** and **Back-End Development**.
+
+- 🫆 I'm already exploring a lot about **Networking** and **Security**.
 
 - 💬 Feel free to ask me anything! I'll do my best to help.  
 

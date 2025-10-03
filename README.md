@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 Learning **TypeScript**, **React** and **Tailwind CSS** for front-end development.
 
-- 💻 I'm exploring Cloud & Infra with **Docker**, **Linux** (I use Arch btw) and **GitHub Actions**.
+- 💻 I'm exploring Cloud & Infra with **Docker**, **Linux** (_I use Arch btw_) and **GitHub Actions**.
 
 - 👯 Open to collaborating on **Data Science** and **Machine Learning** projects using Python.  
 

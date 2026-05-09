@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 💬 Feel free to ask me anything! I'll do my best to help.  
 
 - 📫 Let's connect:
-  - Instagram: [gustavo.h.k.oliveira](https://www.instagram.com/gustavo.h.k.oliveira/) 
+  - Instagram: [gustavo.h.k.oliveira](https://www.instagram.com/gustavo.h.k.o/) 
   - X: [@gustavo_h_k_o](https://x.com/gustavo_h_k_o)  
   - LinkedIn: [Gustavo Oliveira](https://www.linkedin.com/in/gustavo-oliveira-713583214/)  
 
